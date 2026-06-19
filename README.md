@@ -1,6 +1,6 @@
 # Welcome to the Temperature Data Visualization Project! 📊
 
-This repository demonstrates how to turn clean time-series data into clear statistical graphs using **Matplotlib** and **Seaborn**.
+This repository demonstrates how to turn cleaned time-series data into clear statistical graphs using **Matplotlib** and **Seaborn**.
 
 While Pandas cleans the logs, this script sets up a two-panel visual dashboard to display trends and data distribution shapes without any overlapping labels.
 
