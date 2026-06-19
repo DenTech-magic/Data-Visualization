@@ -18,7 +18,7 @@ This script reads your clean data and draws the graphs using three structured st
 
 ## 📊 Visual Execution Results
 
-Running the script automatically saves a high-resolution picture file. On your GitHub repository front page, the chart result displays as shown below:
+Running the script automatically saves a high-resolution picture file as shown below:
 
 ---
 
